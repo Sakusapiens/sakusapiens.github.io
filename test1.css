@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling, though, you should not be looking at this lilbro*/
 .controller.ds4 {
-    background: url(test1/base.png);
+    background: url(test1/base_1.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -275,5 +275,6 @@ background-position: 0 -70px;
 .ds4.half {
     margin-top: -300px;
 }
+
 
 /*END PS4 Controller Styling, and again, why are you looking at this?? oh right, twitch.tv/sakusapiens, don't forget it*/
